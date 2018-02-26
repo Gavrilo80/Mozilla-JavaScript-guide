@@ -30,3 +30,8 @@ console.log(x);
 console.log(n);
 var n;
 console.log(n);
+
+(function() {
+    var myvar= 'moja vrednost';
+    console.log(myvar);
+}) ();
