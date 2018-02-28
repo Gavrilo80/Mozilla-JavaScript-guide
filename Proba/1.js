@@ -35,3 +35,4 @@ console.log(n);
     var myvar= 'moja vrednost';
     console.log(myvar);
 }) ();
+console.log("proba");
