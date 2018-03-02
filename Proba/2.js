@@ -9,7 +9,7 @@ function foo() {
     console.log('bor');
 }
 
-baz();   TypeError : baz nije funcija
+baz();  // TypeError : baz nije funcija
 var baz = function() {
     console.log('bar2');
 }
